@@ -18,7 +18,9 @@ pip install -r requirements
 ### Usage
 
 ```
-cd proxies/app
+cd proxies
+git checkout xo490  
+cd app
 python main.py
 ```
  
