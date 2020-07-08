@@ -1,9 +1,5 @@
 __pycache__/
 venv/
-*.zip
-.vscode/
-tox.ini
 .idea/
-code/parsing/__pycache__/
 code/parsing/test.*
 code/bot/
