@@ -1,0 +1,516 @@
+{
+    "proxies": [
+        {
+            "IP Address": "142.93.57.37",
+            "Port": "80",
+            "Country, City": " United States North Bergen",
+            "Speed": "520 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "72.52.4.6",
+            "Port": "80",
+            "Country, City": " United States ",
+            "Speed": "220 ms",
+            "Type": "HTTP",
+            "Anonymity": "Average"
+        },
+        {
+            "IP Address": "103.105.49.53",
+            "Port": "80",
+            "Country, City": " United States Los Angeles",
+            "Speed": "1400 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "173.192.128.238",
+            "Port": "25",
+            "Country, City": " United States Seattle",
+            "Speed": "760 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "157.245.136.10",
+            "Port": "8080",
+            "Country, City": " United States North Bergen",
+            "Speed": "540 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "Average"
+        },
+        {
+            "IP Address": "5.189.133.231",
+            "Port": "80",
+            "Country, City": " Germany ",
+            "Speed": "240 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "51.68.207.81",
+            "Port": "80",
+            "Country, City": " United Kingdom ",
+            "Speed": "500 ms",
+            "Type": "HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "88.198.90.23",
+            "Port": "3128",
+            "Country, City": " Germany ",
+            "Speed": "340 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "34.193.71.122",
+            "Port": "80",
+            "Country, City": " United States Ashburn",
+            "Speed": "520 ms",
+            "Type": "HTTP",
+            "Anonymity": "Average"
+        },
+        {
+            "IP Address": "13.85.25.59",
+            "Port": "8080",
+            "Country, City": " United States San Antonio",
+            "Speed": "740 ms",
+            "Type": "HTTP",
+            "Anonymity": "Average"
+        },
+        {
+            "IP Address": "93.185.96.61",
+            "Port": "43749",
+            "Country, City": " Czech Republic Brno",
+            "Speed": "2880 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "95.179.237.247",
+            "Port": "30445",
+            "Country, City": " United Kingdom London",
+            "Speed": "5100 ms",
+            "Type": "HTTP, SOCKS5",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "145.239.121.218",
+            "Port": "3129",
+            "Country, City": " France ",
+            "Speed": "3800 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "47.75.161.251",
+            "Port": "80",
+            "Country, City": " United States ",
+            "Speed": "1700 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "191.96.42.80",
+            "Port": "3128",
+            "Country, City": " United States Chicago",
+            "Speed": "1160 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "198.199.120.102",
+            "Port": "3128",
+            "Country, City": " United States New York",
+            "Speed": "520 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "3.211.17.212",
+            "Port": "80",
+            "Country, City": " United States Ashburn",
+            "Speed": "560 ms",
+            "Type": "HTTP",
+            "Anonymity": "Average"
+        },
+        {
+            "IP Address": "46.4.96.137",
+            "Port": "8080",
+            "Country, City": " Germany ",
+            "Speed": "240 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "173.192.128.238",
+            "Port": "8123",
+            "Country, City": " United States Seattle",
+            "Speed": "580 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "159.8.114.34",
+            "Port": "8123",
+            "Country, City": " France Clichy",
+            "Speed": "220 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "173.192.128.238",
+            "Port": "9999",
+            "Country, City": " United States Seattle",
+            "Speed": "760 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "52.179.231.206",
+            "Port": "80",
+            "Country, City": " United States Boydton",
+            "Speed": "620 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "159.8.114.37",
+            "Port": "80",
+            "Country, City": " France Clichy",
+            "Speed": "280 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "159.8.114.37",
+            "Port": "8123",
+            "Country, City": " France Clichy",
+            "Speed": "260 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "185.134.23.198",
+            "Port": "80",
+            "Country, City": " United Kingdom London",
+            "Speed": "260 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "217.163.28.38",
+            "Port": "31443",
+            "Country, City": " Germany Frankfurt am Main",
+            "Speed": "5100 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "162.243.108.129",
+            "Port": "8080",
+            "Country, City": " United States New York",
+            "Speed": "5100 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "173.82.74.60",
+            "Port": "5836",
+            "Country, City": " United States ",
+            "Speed": "2380 ms",
+            "Type": "HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "34.91.135.38",
+            "Port": "80",
+            "Country, City": " United States ",
+            "Speed": "1100 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "Average"
+        },
+        {
+            "IP Address": "46.218.155.194",
+            "Port": "3128",
+            "Country, City": " France Clamart",
+            "Speed": "300 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "Average"
+        },
+        {
+            "IP Address": "64.188.3.162",
+            "Port": "3128",
+            "Country, City": " United States Los Angeles",
+            "Speed": "820 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "Average"
+        },
+        {
+            "IP Address": "138.68.240.218",
+            "Port": "8080",
+            "Country, City": " United States Santa Clara",
+            "Speed": "800 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "138.68.161.14",
+            "Port": "8080",
+            "Country, City": " United Kingdom London",
+            "Speed": "660 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "188.226.141.61",
+            "Port": "3128",
+            "Country, City": " Netherlands ",
+            "Speed": "1080 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "138.68.161.14",
+            "Port": "3128",
+            "Country, City": " United States New York",
+            "Speed": "680 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "198.199.120.102",
+            "Port": "8080",
+            "Country, City": " United States New York",
+            "Speed": "520 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "88.198.24.108",
+            "Port": "8080",
+            "Country, City": " Germany Nuremberg",
+            "Speed": "220 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "85.11.42.67",
+            "Port": "35770",
+            "Country, City": " Sweden Ume\u00e5",
+            "Speed": "240 ms",
+            "Type": "HTTP, SOCKS4, SOCKS5",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "88.198.24.108",
+            "Port": "3128",
+            "Country, City": " Germany Nuremberg",
+            "Speed": "220 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "176.9.119.170",
+            "Port": "8080",
+            "Country, City": " Germany ",
+            "Speed": "220 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "176.9.75.42",
+            "Port": "8080",
+            "Country, City": " Germany ",
+            "Speed": "220 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "176.9.75.42",
+            "Port": "3128",
+            "Country, City": " Germany ",
+            "Speed": "220 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "154.16.202.22",
+            "Port": "8080",
+            "Country, City": " Germany Frankfurt am Main",
+            "Speed": "280 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "154.16.202.22",
+            "Port": "3128",
+            "Country, City": " Germany Frankfurt am Main",
+            "Speed": "200 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "46.250.171.31",
+            "Port": "8080",
+            "Country, City": " Poland Poznan",
+            "Speed": "220 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "99.109.24.9",
+            "Port": "16180",
+            "Country, City": " United States Cedar Hill",
+            "Speed": "720 ms",
+            "Type": "HTTP, SOCKS4, SOCKS5",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "138.68.240.218",
+            "Port": "3128",
+            "Country, City": " United States Santa Clara",
+            "Speed": "820 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "188.226.141.211",
+            "Port": "3128",
+            "Country, City": " Netherlands ",
+            "Speed": "380 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "188.226.141.61",
+            "Port": "8080",
+            "Country, City": " Netherlands ",
+            "Speed": "580 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "188.226.141.211",
+            "Port": "8080",
+            "Country, City": " Netherlands ",
+            "Speed": "380 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "88.198.50.103",
+            "Port": "8080",
+            "Country, City": " Germany Nuremberg",
+            "Speed": "1120 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "88.198.50.103",
+            "Port": "3128",
+            "Country, City": " Germany Nuremberg",
+            "Speed": "1120 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "188.166.83.17",
+            "Port": "8080",
+            "Country, City": " Netherlands Amsterdam",
+            "Speed": "700 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "207.154.231.213",
+            "Port": "8080",
+            "Country, City": " Germany Frankfurt am Main",
+            "Speed": "220 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "207.154.231.213",
+            "Port": "3128",
+            "Country, City": " United States New York",
+            "Speed": "240 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "176.9.119.170",
+            "Port": "3128",
+            "Country, City": " Germany ",
+            "Speed": "240 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "92.222.82.77",
+            "Port": "80",
+            "Country, City": " France Paris",
+            "Speed": "1080 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "64.71.145.122",
+            "Port": "3128",
+            "Country, City": " United States ",
+            "Speed": "1900 ms",
+            "Type": "HTTP, HTTPS",
+            "Anonymity": "Low"
+        },
+        {
+            "IP Address": "4.7.14.46",
+            "Port": "80",
+            "Country, City": " United States Redwood City",
+            "Speed": "4020 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "191.96.42.80",
+            "Port": "8080",
+            "Country, City": " United States Chicago",
+            "Speed": "2420 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "167.99.154.98",
+            "Port": "3128",
+            "Country, City": " United States North Bergen",
+            "Speed": "2400 ms",
+            "Type": "HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "51.158.119.88",
+            "Port": "8761",
+            "Country, City": " France Paris",
+            "Speed": "5100 ms",
+            "Type": "HTTP",
+            "Anonymity": "Low"
+        },
+        {
+            "IP Address": "185.189.112.235",
+            "Port": "3128",
+            "Country, City": " Germany Frankfurt am Main",
+            "Speed": "260 ms",
+            "Type": "HTTPS",
+            "Anonymity": "High"
+        },
+        {
+            "IP Address": "46.20.59.243",
+            "Port": "47497",
+            "Country, City": " Poland Mysliborz",
+            "Speed": "5100 ms",
+            "Type": "HTTP",
+            "Anonymity": "High"
+        }
+    ]
+}

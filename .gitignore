@@ -1,0 +1,5 @@
+venv/
+.idea/
+code/parsing/__pycache__/
+code/parsing/test.py
+code/bot/
